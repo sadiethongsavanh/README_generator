@@ -42,7 +42,16 @@ const questions = [ {
   {
     name: 'email',
     message: 'What is your email address?',
-  },];
+  },
+  {
+    name: 'contributing',
+    message: 'What are you contributing?',
+  },
+  {
+    name: 'tests',
+    message: 'What is your tests?',
+  }
+];
 
 // TODO: Create a function to write README file
 const writeToFile = data => {
@@ -65,9 +74,9 @@ function init() {
     .prompt(questions)
     .then(answers => {
       return generateMarkdown(answers);
-    }).then(info =>{
-      console.info('info', info)
-      return writeToFile(info);
+    }).then(file =>{
+      console.info('info', file)
+      return writeToFile(file);
     }).catch(err => {
       console.log(err)
     })
