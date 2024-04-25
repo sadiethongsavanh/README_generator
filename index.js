@@ -29,10 +29,10 @@ const questions = [ {
     name: 'license',
     message: 'What is your license?',
     choices: [
-    'MIT License',
-    'Apache License 2.0',
-    'BSD 2-Clause Simplified License',
-    'Boost Software License 1.0'
+    'License-MIT',
+    'License-Apache_2.0',
+    'License-BSD_2--Clause',
+    'License-Boost_1.0'
     ],
   },
   {
