@@ -1,6 +1,6 @@
-# a
+# test
 
-  [![License-BSD_2--Clause](https://img.shields.io/badge/License-BSD_2--Clause-blue.svg)](https://opensource.org/licenses/BSD-2-Clause)
+  [![License-MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
   ## table of contents
   [description](#description)
@@ -12,24 +12,23 @@
   [questions](questions)
 
   ## description
-  s
+  test
 
   ## installation
-  f
+  test
 
   ## usage
-  g
+  test
 
   ## license
-  ## license
-    this project is protected under the license License-BSD_2--Clause
+  this project is protected under the license License-MIT
 
   ## contributing
-  k
+  test
 
   ## tests
-  l
+  test
 
   ## questions
-  contact us at j
-  my github repo is https://github.com/h
+  contact us at test
+  my github repo is https://github.com/test
